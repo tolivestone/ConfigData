@@ -1,0 +1,6 @@
+# .yml file
+---
+spring:
+  config:
+    name: aaa
+    location: bbb
